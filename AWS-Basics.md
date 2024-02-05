@@ -13,7 +13,7 @@
   * Budget Cost: $10
   * Email Recipients - your email
 * Create budget
-* It will send you three notification you used 85% of the budget, budget exceed or soon it will be exceed
+* It will send you three notification which are about: you used 85% of the budget, budget exceed or soon it will be exceed
 **In account settings you can turn on: IAM user/role access to billing information**
 
 ### IAM: This is service is called identity access management. It used to configure the permissions of user and group.
